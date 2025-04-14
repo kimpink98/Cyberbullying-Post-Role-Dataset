@@ -5,7 +5,7 @@ This dataset contains 11977 samples of cyberbullying posts annotated with:
 - participant role [bullies, outsiders, assistants, defenders, and reporters]
 - Case and its categories [lgj_societal case, kj_sports case, ryz_entertainment case]
 
-- The data is used for research, please contact the authors if you need to use it.
+The data is used for research, please contact the authors if you need to use it.
 
 ## Collection Methodology
 - Source: Sina Weibo
