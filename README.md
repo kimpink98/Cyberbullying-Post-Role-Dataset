@@ -17,4 +17,4 @@ The data is used for research, please contact the authors if you need to use it.
 ## Ethics & Privacy
 - All personally identifiable information has been removed 
 - Texts have been anonymized (excpet the main subjects of the case)
-- The coding for roles is based on context and discourse intent, not user-level
+- The coding for roles was based on context and discourse intension, not user-level
