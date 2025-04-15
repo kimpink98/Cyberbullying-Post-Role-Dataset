@@ -9,7 +9,7 @@ This file includes data that has been initially coded, it is annotated with:
 - `Clean Text`: processed text of the posts
 - `Case and its categories`: [lgj_societal case, kj_sports case, ryz_entertainment case]
 
-**file:**Role-emotion-analysis.xlsx
+**file:** Role-emotion-analysis.xlsx
 This is the sentiment analysis result, annotated with:
 - `text`: Original comment text *(linked to main dataset via comment_id)*  
 - `category`: cyberbullying role [bullies, outsiders, assistants, defenders, and reporters]
