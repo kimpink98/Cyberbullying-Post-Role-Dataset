@@ -3,14 +3,14 @@
 ## Dataset Description
 This dataset contains 11977 samples of cyberbullying posts and their participant roles. 
 
-**file:** Cyberbullying roles data_original.CSV
+**Cyberbullying roles data_original.CSV** 
 
 This file includes data that has been initially coded, it is annotated with:
 - `participant role`: [bullies, outsiders, assistants, defenders, and reporters]
 - `Clean Text`: processed text of the posts
 - `Case and its categories`: [lgj_societal case, kj_sports case, ryz_entertainment case]
 
-**file:** Role-emotion-analysis.xlsx
+**Role-emotion-analysis.xlsx** 
 
 This is the sentiment analysis result, annotated with:
 - `text`: Original comment text *(linked to main dataset via comment_id)*  
