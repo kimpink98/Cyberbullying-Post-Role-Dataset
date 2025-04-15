@@ -1,7 +1,7 @@
 # Cyberbullying-Post-Role-Dataset
 
 ## Dataset Description
-This dataset contains 11977 samples of cyberbullying posts and their participant roles. 
+This dataset contains 11,977 samples of cyberbullying posts and their participant roles. 
 
 **Cyberbullying roles data_original.CSV** 
 
@@ -12,7 +12,7 @@ This file includes data that has been initially coded, it is annotated with:
 
 **Role-emotion-analysis.xlsx** 
 
-This is the sentiment analysis result, annotated with:
+This is the sentiment analysis result of 11,601 posts (A small number of posts were removed in the secondary cleaning), annotated with:
 - `text`: Original comment text *(linked to main dataset via comment_id)*  
 - `category`: cyberbullying role [bullies, outsiders, assistants, defenders, and reporters]
 - `angry`: [0,1]  
